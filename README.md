@@ -14,6 +14,10 @@ The **SW_May_2024** repository is part of the [ChronoStorm project](https://chro
 - `figures/`: Directory containing visualizations generated from the data analyses.
 - `ElectricityResponse.csv`: CSV containing responses from the online survey related to power sector.
 - `SatelliteResponse.csv`: CSV containing responses from the online survey related to power sector.
+- `interview_aviation.csv`: CSV containing responses from the interviews related to aviation sector.
+- `interview_power.csv`: CSV containing responses from the interviews related to power sector.
+- `interview_sat.csv`: CSV containing responses from the interviews related to satellite sector.
+- `interview_stats.csv`: CSV containing organization size for each interview.
 - `.gitignore`: Specifies intentionally untracked files to ignore.
 - `LICENSE`: The repository is licensed under the MIT License.
 
