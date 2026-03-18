@@ -35,7 +35,7 @@ To utilize the scripts in this repository:
 
    Make sure you have R installed. Then install the necessary packages:
    ```R
-   install.packages(c("tidyverse", "ggplot2", "readr"))
+   install.packages(c("tidyverse", "ggplot2", "readr", "ggpubr", "dplyr", "tibble", "tidyr", "stringr"))
    ```
 
 4. **Run the Scripts**:
